@@ -1,0 +1,11 @@
+# dataset path
+path: C:\Users\fan\Desktop\prune\ultralytics\dataset\images
+train: train
+val: val
+test: test
+
+# number of classes
+nc: 1
+
+# class names
+names: ['ship']
